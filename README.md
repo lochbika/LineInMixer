@@ -12,4 +12,11 @@ In my case, I use it to mix my electric guitar signal with the stereo signal fro
 * master volume for output
 
 ## Schematic
-![schematic](https://git.kailua.nl/kai/LineInMixer/src/master/schematic_TinyCAD.png)
+The schematic is drawn by TinyCAD.
+
+![schematic](schematic_TinyCAD.png)
+
+## Strip board layout
+I used VeeCAD to create a stripboard layout.
+
+![stripboard](stripboard.png)
